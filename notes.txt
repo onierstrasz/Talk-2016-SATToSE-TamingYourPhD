@@ -1,0 +1,246 @@
+# Taming your PhD
+
+## Abstract
+
+Mastering a PhD can feel at times like tangling with a wild beast. It takes creativity, discipline, and care to bring it safely home. We will discuss some of the most common difficulties PhD students may encountering whether they are just starting their PhD work, or or well along the way to completing it. In particular, we will cover tips and tricks useful for planning PhD research, writing about it, and presenting it, as well for maintaining focus along the way to completion of the PhD.
+
+Presented at SATToSE 2016, Bergen, Norway.
+http://sattose.org/2016/
+
+Revised and extended version of “Building a Successful Research Program” presented at the ICSM PreDoc Symposium, Sept 2010.
+
+---
+**Roadmap**
+
+There are many things that may seem difficult along the way to completing a PhD. This presentation focuses on four themes that appear to be universally important to ensuring your success: 
+
+planning the research
+writing papers (and writing the thesis itself)
+presenting your work
+maintaining focus.
+
+---
+# Planning your Research
+
+We first look at some techniques that will help you define a research agenda and iteratively “grow” your research.
+
+---
+**Be Problem-Oriented!**
+
+Many researchers specialize in certain techniques (their “hammer”), and then spend their entire career refining these techniques. Although this can be a productive (and comfortable) path, it can be difficult to establish yourself as the master in a field which is already crowded.
+
+A good way to open up a new area of research is to look at problems that are at the boundaries of two (or more) existing fields (such as recommender systems for developers, or debugging domain-specific languages).
+
+Painting by Peyton Higgison. Used with permission. 
+
+<http://peytonart.com/2011_pages/two_flds_red_tree.htm>
+
+---
+**Identify Your Research Community**
+
+Find out early what your research community is. What are the important journals and conferences in your domain? Which papers do you cite? Don’t bother submitting papers to conferences whose papers you don’t read of cite!
+
+Once you have identified your community, become a part of it. Submit papers to conferences and workshops. Become a student volunteer. Try to collaborate and publish with people you respect. If possible, try to spend a research visit or an internship in another group.
+
+---
+**Use a Spiral Research Model**
+
+You can apply an iterative and agile process to research too! 
+
+Iteratively grow your research. Instead of biting off big problems from the beginning, start with “low hanging fruit” — research that you can solve (and publish) in a short time frame. As you gain insight, you will discover whether it makes more sense to expand in breadth or in depth. (The PhD will need depth, but it is risky  to start that way.)
+
+Get practice writing early and often. Get into the habit of always having at least one paper in the pipeline.
+
+Publish one paper at a time. Avoid targeting the “least publishable unit” — each paper should have a clear, new contribution. But also don’t forget to upgrade your work as it progresses: expand that cool conference paper to a journal paper.
+
+---
+**Make a Research Map**
+
+Maintain a map of your research topics and nearby ones. Use it to identify holes in the state of the art. See what has been done, what is missing, and where your work fits.
+The map can help you also to define a scope for your work.
+
+The research map will help you write “chapter two” of your thesis.
+
+Learn about mind mapping as a technique for organizing your thoughts.
+
+<https://en.wikipedia.org/wiki/Mind_map>
+
+---
+**Exercise Lateral Thinking**
+
+Eduard de Bono has written extensively on the idea that creative thinking can be *learned*.
+
+“Creative thinking is a skill; it is not a matter of individual talent”
+
+According to de Bono, the human mind excels at discovering patterns and applying them. Unfortunately to be creative at problem solving we may need to break out of these patterns and apply “lateral thinking”.
+
+De Bono suggests numerous techniques to generate ideas (AKA brainstorming) such as using random input (like a word chosen at random from a book) to generate ideas. 
+
+One such technique is “Six Thinking Hats” which formalizes six classical and distinct ways of tackling problems.
+
+<https://en.wikipedia.org/wiki/Six_Thinking_Hats>
+
+<http://www.debonogroup.com/six_thinking_hats.php>
+
+---
+# Writing Papers
+
+One of the most effective ways to do a PhD is to start writing early and write one paper at a time. This lets you learn how to do research and to write it up convincingly. In the end your PhD will be a “mashup” of the papers you have written. (More on this later.)
+
+Since paper writing is so important, we will look at a few techniques that will help you on you way to becoming a successful author of research papers.
+
+See also: Renée Miller, “How to write a research paper?”
+<http://dblab.cs.toronto.edu/~miller/Research/ResearchSkills-Writing2014.pdf>
+
+---
+**“Identify the Champion”**
+
+In order to write effectively, it is crucial to understand the review process. Your paper will be accepted for publication if there is a reviewer who “champions” it, so you must get that reviewer on your side. 
+
+Write your paper with one person in mind: your champion!
+
+Make your champion’s job easy by explaining clearly what problem you are solving, what your novel research results are, and why they are important. Don’t waste the reviewer’s time by hiding the main result on page 7.
+
+To learn more about the review process, read “Identify the Champion”:
+<http://scg.unibe.ch/download/champion/>
+
+---
+**Aim High**
+
+Publishing your work serves several purposes: collecting the *pieces of your thesis*; getting useful *feedback* from experts; building up your *collaboration* network; preparing your *CV*.
+
+It is therefore important to carefully select the right venues. Pick key conferences in your field (those you actually cite yourself). Don’t forget journals — always “upgrade” your best papers and push them into the journal pipeline.
+
+Be careful with workshops; they can be good for community building, but can also be dead ends. Always submit papers to colocated workshops if you already have a conference paper accepted. Go to workshops if they are nearby and cheap to attend.
+
+---
+**Packaging Your Research**
+
+Writing is all about packaging your results. Tell a story — but don’t make it a detective story!
+
+The usual advice is: 
+
+*Say what you’re going to say; then say; and then say what you said.*
+
+This means: tell the reader up front (i.e., in the title, the abstract, and the introduction) what your main contribution. The reader has to be convinced that your paper will be worth reading, so don’t try to build suspense! Then give the details.  Finally summarize in the conclusion what the take-home message is.
+
+---
+**Include One Startling Sentence**
+
+Kent Beck expressed very nicely in a 1993 panel on “How to Get a Paper Accepted at OOPSLA” how to write an abstract:
+
+*I try to have four sentences in my abstract. The first states the problem. The second states why the problem is a problem. The third is my startling sentence. The fourth states the implication of my startling sentence.*
+
+The startling sentence is your one chance to grab the reader’s attention.
+
+See also:
+<http://scg.unibe.ch/wiki/howtos/kentBeckOOPSLA>
+
+
+---
+**Debugging Your Paper**
+
+The worst thing you can do is to take the deadline for paper submission too literally. Always aim for a complete draft of your paper at least *a week before the deadline*. Then find a fresh reader (not a co-author) to *review the paper internally* and give critical feedback.
+
+If you have time (and fresh readers), try for two or three iterations. Return the favor to your reviewers!
+
+---
+**The Reviewer is Your Friend**
+
+Nothing is more annoying than getting your beautiful baby rejected! After you finish blowing off steam about how the stupid reviewers missed the point of your paper, read their reviews again carefully and with an open mind. Every point they missed or misunderstood is an opportunity to improve your paper.
+
+Remember: if the reviewer didn’t get the point, it’s your fault, not theirs!
+
+---
+# Presenting
+
+Your presentation serves to get people excited about your research and get them to read your paper. Don’t underestimate the effort needed to prepare a successful research talk.
+
+---
+**The slides are not your talk**
+
+The slides are not the talk. The slides are there to underscore the message you want to convey. They should help the audience follow the story you are telling.
+
+Your talk should not simply mirror your paper. It is more like a performance art version of your abstract. 
+
+Don’t just read your slides. Tell the story and use the slides to support your story. 
+
+---
+**Keep slides simple**
+
+Don’t cram lots of details into the slides (it’s a talk, not a lecture). Too much text (or graphics) will distract the audience from what you are saying.
+
+Use extra hidden “notes” slides (like these ;-) if you want to make details available offline. Also prepare detailed “backup” slides for the Q&A.
+
+Also avoid slides crammed with bullet points (unless you want to put your audience to sleep). [Apologies to RM]
+
+---
+**Rehearse!**
+
+Always do a “dry run” of your talk. Grab a small audience of peers, and simulate the venue. Introduce yourself, talk for the allotted time, and simulate the Q&A. 
+Audience members should take notes about what worked well and what did not.
+After the talk, there should be a “post mortem” in which the participants give constructive feedback about how to improve the presentation and the slides.
+
+(Rehearsals are very effective! Students who rehearse always report much improved presentation experience.)
+
+Some things to watch out for: Don’t block the screen. Look at the audience, not the screen. Don’t fidget, dance, or wave your hands. Keep answers short.
+
+---
+**Make your stuff citable**
+
+If you are producing artifacts that you would like to share with other researchers (or users), make them citable. You can publish software or data sets on platforms like github or zenodo (with a DOI), or you can publish a conventional paper and include a link to a web site of your own. Consider preparing an archival snapshot to support reproducibility.
+
+Check out:
+<https://www.force11.org>
+<http://zenodo.org>
+<https://figshare.com>
+<http://depsy.org>
+
+---
+# Maintaining Focus
+
+Four years is a long time to work on a PhD thesis.
+
+Here are some problems to watch out for and some tricks to stay on track.
+
+---
+**The thesis as “found art”**
+
+Don’t expect to design your PhD thesis in the first year or two. If you write one paper at a time, keep taking stock of new directions to explore. Use your research map to steer your research.
+
+After three years, decide what is your strongest result and put that at the center. Build the story of your thesis around that result. The research map will tell you want is missing to complete the story.
+
+Figure on 3-4 strong papers to complete your thesis. If you have more papers, decide what fits and what doesn’t. Discard anything that does not fit.
+
+The final thesis is not just a bunch of papers stapled together, but there will be a close correspondence between papers and chapters.
+
+---
+**Avoid common pitfalls**
+
+Here are some common pitfalls you may encounter during the PhD:
+
+- Nut too tough to crack: if your research problem is too hard, reset your goals. A good strategy is to work on multiple tracks in parallel. If you get stuck in one, switch to another.
+- Wanderlust: sometimes there are just too many interesting things to work on. A crisis (e.g., a hard deadline by your supervisor) can help.
+- Impatience: you think you’re done, but your supervisor doesn’t. Slow down!
+- Perfectionism: what you have is never “enough”. A hard deadline can help.
+- No progress: you work on “stuff” but don’t get closer to real results. Regular checkpoints can help.
+- Exhaustion: you don’t have any energy or new ideas. Take a break. Go away for a few months on an internship.
+
+---
+**Beware of distractions**
+
+Be careful with teaching and other duties.
+
+There is a fine art to procrastination. Learn some effective time management tools, such as the “pomodoro technique”.
+
+<http://pomodorotechnique.com>
+
+---
+**Be visible**
+
+Make sure your work is visible. Keep your web site up-to-date. Make sure all your publications are on-line. Publish your software. Curate your Google Scholar page.
+
+Be student volunteer at conferences. Help to organize workshops. Volunteer for reviewing duties. Try to collaborate with other researchers on papers.
+
+---
+
